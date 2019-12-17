@@ -13,6 +13,7 @@
     "dragscroll": "0.0.8",
     "enzyme": "^3.7.0",
     "enzyme-adapter-react-16": "^1.7.0",
+    "gh-pages": "^2.1.1",
     "jest": "^23.6.0",
     "jest-cli": "^23.6.0",
     "moxios": "^0.4.0",
