@@ -8,7 +8,7 @@
     "@atlaskit/icon": "^15.0.1",
     "@atlaskit/navigation": "^33.3.7",
     "@atlaskit/tree": "^4.1.8",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "css-reset": "0.0.1",
     "dragscroll": "0.0.8",
     "enzyme": "^3.7.0",
